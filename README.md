@@ -1,8 +1,8 @@
 # cleanbrain-developer
 
-Backend engineer focused on reliable backend systems, APIs, system integration, and production engineering.
+Backend engineer focused on reliable backend systems, APIs, system integration, and production reliability.
 
-I have around 9 years of software engineering experience across **Java/Spring** and **TypeScript/Node.js/NestJS**, working on backend services that connect multiple systems and operate under real-world constraints.
+I have around 9 years of software engineering experience, working across **Java/Spring** and **TypeScript/Node.js/NestJS** backend systems that connect multiple services and operate under real-world constraints.
 
 My experience includes API design, system integration, data consistency, performance optimization, authentication, production troubleshooting, and AI-enabled backend services.
 
@@ -21,12 +21,12 @@ My experience includes API design, system integration, data consistency, perform
 ## What I Work On
 
 - Backend API design and development
-- Enterprise and distributed system integration
+- Enterprise system integration and distributed data flows
 - Transaction and data consistency
 - Authentication and identity integration
 - Batch, asynchronous, and event-driven processing
 - Performance bottleneck analysis and production troubleshooting
-- AI / LLM integration and AI-enabled backend services
+- AI / LLM API integration
 
 ## Engineering Approach
 
